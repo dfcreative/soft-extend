@@ -1,7 +1,7 @@
 {
   "name": "soft-extend",
   "version": "0.1.0",
-  "description": "Undestructive extend. Just appends new properties to an object, keeping old ones.",
+  "description": "Non-destructive extend. Just appends new properties to an object, keeping old ones.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
