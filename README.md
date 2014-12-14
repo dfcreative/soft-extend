@@ -1,4 +1,4 @@
-# Soft-extend
+# Soft-extend <a href="UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="20"/></a>
 
 Extend any object softly, i. e. do not replace existing properties, just append the new ones.
 
@@ -16,6 +16,5 @@ function MyClass(options){
 }
 ```
 
----
 
-Unlicensed.
+[![NPM](https://nodei.co/npm/soft-extend.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/soft-extend/)
