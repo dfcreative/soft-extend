@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node test.js"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "http://github.com/dfcreative/soft-extend"
